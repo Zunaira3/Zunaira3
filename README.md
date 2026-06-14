@@ -128,9 +128,9 @@ AI Engineer with hands-on experience shipping **LLM applications**, **agentic RA
 
 ## 🎓 Background
 
-**BSc Computer Engineering**         CGPA **3.85/4.0**
-🥈 Silver Medal,  2nd position
-🏆 Merit Scholarship — all 8 semesters, top 2% academic standing
+**BSc Computer Engineering** ,         CGPA **3.85/4.0** ,
+🥈 Silver Medal,  2nd position ,
+🏆 Merit Scholarship for 8 semesters, top 2% academic standing
 
 ---
 
