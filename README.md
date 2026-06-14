@@ -136,7 +136,7 @@ AI Engineer with hands-on experience shipping **LLM applications**, **agentic RA
 
 ## 📬 Open to Opportunities
 
-I'm actively looking for **AI Engineer**, **LLM Engineer**, and **Conversational AI Engineer** roles — particularly in **legal tech**, **healthtech**, and **edtech** where AI creates direct, measurable impact.
+Interested in **AI Engineer**, **LLM Engineer**, and **Conversational AI Engineer** roles, particularly in **legal tech**, **healthtech**, and **edtech** where AI creates direct, measurable impact.
 
 <div align="center">
 
