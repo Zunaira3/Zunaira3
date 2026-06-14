@@ -73,28 +73,28 @@ AI Engineer with hands-on experience shipping **LLM applications**, **agentic RA
 
 ## 🚀 Featured Projects
 
-### 🎙️ Legal Intake Voice Agent System — B&BLG *(production)*
+### 🎙️ Legal Intake Voice Agent System 
 > Architected and deployed **5 voice agents** on Twilio + Deepgram (320ms STT) + ElevenLabs (450ms TTS), maintaining **<800ms end-to-end response time**. Agents handle premises liability, accident claims, and workplace harassment intake — processing **2,000+ calls/month** and cutting paralegal screening time by **12 hrs/week**.
 
 `LangChain` `pgvector` `Twilio` `Deepgram` `ElevenLabs` `FastAPI` `LLM-as-a-Judge`
 
 ---
 
-### 📄 Agentic RAG Pipeline for Legal Case Retrieval *(coming public soon)*
+### 📄 Agentic RAG Pipeline for Legal Case Retrieval 
 > End-to-end RAG system orchestrating LangChain, pgvector, and LLM workflows for dynamic retrieval of case law and firm precedents during live calls. Reduced agent hallucinations and improved first-call resolution by **22%**. Includes post-call LLM-as-a-judge evaluation pipeline improving accuracy **18% over 3 months**.
 
 `LangChain` `pgvector` `OpenAI` `Hybrid Search` `RAGAS` `Docker`
 
 ---
 
-### 🎬 Automated Urdu Video Dubbing Pipeline — Alnafi *(production)*
+### 🎬 Automated Urdu Video Dubbing Pipeline — *(production)*
 > Whisper for transcript extraction → translation LLMs for localization → ElevenLabs for TTS → FFmpeg for audio sync. Processed **200+ educational videos** and reduced dubbing time from **4 hours to 12 minutes per video**.
 
 `Whisper` `mBART` `ElevenLabs` `FFmpeg` `Python`
 
 ---
 
-### 🤖 AI Resume Generator — Alnafi *(production, 500+ users)*
+### 🤖 AI Resume Generator —  *(production, 500+ users)*
 > LLM prompt chaining pipeline that parses job descriptions, education history, and skills to generate ATS-optimized resumes with targeted keyword insertion. Deployed to **500+ students** with **87% satisfaction rate**.
 
 `OpenAI` `LangChain` `Prompt Engineering` `FastAPI`
@@ -128,7 +128,7 @@ AI Engineer with hands-on experience shipping **LLM applications**, **agentic RA
 
 ## 🎓 Background
 
-**BSc Computer Engineering** — National University of Technology · CGPA **3.85/4.0**
+**BSc Computer Engineering** — · CGPA **3.85/4.0**
 🥈 Silver Medal — 2nd position, Computer Engineering Batch 2019
 🏆 Merit Scholarship — all 8 semesters, top 2% academic standing
 
