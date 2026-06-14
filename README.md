@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADLINE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Zunaira%20Khalid&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%E2%80%A2%20Voice%20AI%20%E2%80%A2%20Edge%20CV&descAlignY=60&descColor=c7d2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Zunaira%20Khalid&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%E2%80%A2%20Voice%20Agents%20%E2%80%A2%20RAG%20Pipelines&descAlignY=60&descColor=c7d2fe" />
 
-<!-- ONE-LINE IDENTITY — what a recruiter sees in 3 seconds -->
-### Building production AI systems where language meets sound meets vision
+### Building production-grade Generative AI systems that handle real workloads at scale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zunaira%20Khalid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-khalid/)
-[![Email](https://img.shields.io/badge/Email-zunaira%40example.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zunaira@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6366f1?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-zunairak4321%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zunairak4321@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Zunaira3&color=6366f1&style=flat&label=Profile+Views)](https://github.com/Zunaira3)
 
 </div>
@@ -17,15 +14,15 @@
 
 ## 🧠 What I Build
 
-I engineer **production-grade AI systems** across three domains:
+AI Engineer with hands-on experience shipping **LLM applications**, **agentic RAG pipelines**, and **voice AI systems** into production. My work spans legal tech, edtech, and healthcare — always with real usage metrics attached.
 
-| Domain | What I've shipped |
-|--------|-------------------|
-| 🗣️ **Conversational Voice AI** | Deployed a legal intake voice agent handling **2,000+ calls/month** — zero human agents in the first-contact loop |
-| 📄 **RAG & LLM Pipelines** | Built retrieval-augmented generation systems cutting hallucination rates by **37%** on domain-specific legal corpora |
-| 🎥 **Edge Computer Vision** | Real-time obstacle detection + spatial audio for visually impaired users, running on OAK-D + Jetson Nano at **30 FPS** |
-| 🎬 **Multilingual AI Media** | Reduced Urdu video dubbing pipeline from **4 hrs → 12 min** using automated speech synthesis + lip-sync |
-| ⚙️ **MLOps & Automation** | CI/CD for ML workflows cutting manual deployment effort by **40%** across model retraining cycles |
+| Domain | Impact |
+|--------|--------|
+| 🗣️ **Voice Agents & Conversational AI** | 5 production voice agents · **2,000+ legal intake calls/month** · <800ms end-to-end latency |
+| 📄 **Agentic RAG Pipelines** | LangChain + pgvector + LLM orchestration · **22% hallucination reduction** · live case law retrieval |
+| 🤖 **LLM Applications & Automation** | 15+ client projects · document processing · chatbots handling **40% of pre-sales queries autonomously** |
+| 🎬 **Generative AI Media Pipelines** | Whisper + translation LLMs + ElevenLabs · **200+ videos processed** · dubbing time **4 hrs → 12 min** |
+| 📊 **LLM Evaluation & MLOps** | LLM-as-a-judge evaluation · **18% accuracy improvement** over 3 months · CI/CD cutting deploy time **40%** |
 
 ---
 
@@ -33,40 +30,42 @@ I engineer **production-grade AI systems** across three domains:
 
 <div align="center">
 
-**LLM & NLP**
+**LLMs & Generative AI**
 
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20GPT-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Llama](https://img.shields.io/badge/Llama%203.1-0467DF?style=flat&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logoColor=white)
 
-**Voice & Audio AI**
+**Voice AI & Speech**
 
-![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=flat&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram%20STT-101010?style=flat&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20TTS-000000?style=flat&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-**Computer Vision & Edge AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
-![DepthAI](https://img.shields.io/badge/DepthAI%20OAK--D-EE4C2C?style=flat&logoColor=white)
-
-**Vector Databases & MLOps**
+**RAG & Vector Search**
 
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0194E2?style=flat&logoColor=white)
 
-**Languages & Infrastructure**
+**Infrastructure & Deployment**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -74,31 +73,45 @@ I engineer **production-grade AI systems** across three domains:
 
 ## 🚀 Featured Projects
 
-### 🦺 [AI-BlindAid](https://github.com/Zunaira3/AI-BlindAid) — Real-Time Assistive Computer Vision
-> Stereo depth + YOLO spatial detection on OAK-D hardware for obstacle navigation. OCR pipeline (EAST + text-recognition-0012) for real-time sign reading. Deployed on Jetson Nano at 30 FPS.
+### 🎙️ Legal Intake Voice Agent System — B&BLG *(production)*
+> Architected and deployed **5 voice agents** on Twilio + Deepgram (320ms STT) + ElevenLabs (450ms TTS), maintaining **<800ms end-to-end response time**. Agents handle premises liability, accident claims, and workplace harassment intake — processing **2,000+ calls/month** and cutting paralegal screening time by **12 hrs/week**.
 
-`depthai` `OpenVINO` `YOLO` `Spatial-AI` `Jetson-Nano` `TTS` `OCR`
-
----
-
-### 🤖 Legal Intake Voice Agent *(private — available on request)*
-> Twilio + Deepgram + ElevenLabs pipeline handling 2,000+ calls/month. Sub-200ms response latency. Reduced first-contact handling cost by 60%.
-
-`LangChain` `Twilio` `Deepgram` `ElevenLabs` `FastAPI`
+`LangChain` `pgvector` `Twilio` `Deepgram` `ElevenLabs` `FastAPI` `LLM-as-a-Judge`
 
 ---
 
-### 📄 RAG Pipeline for Legal Corpora *(coming soon)*
-> Domain-specific retrieval-augmented generation system. pgvector embeddings, RAGAS evaluation framework, 37% hallucination reduction vs base GPT-4.
+### 📄 Agentic RAG Pipeline for Legal Case Retrieval *(coming public soon)*
+> End-to-end RAG system orchestrating LangChain, pgvector, and LLM workflows for dynamic retrieval of case law and firm precedents during live calls. Reduced agent hallucinations and improved first-call resolution by **22%**. Includes post-call LLM-as-a-judge evaluation pipeline improving accuracy **18% over 3 months**.
 
-`LangChain` `pgvector` `OpenAI` `RAGAS` `FastAPI` `Docker`
+`LangChain` `pgvector` `OpenAI` `Hybrid Search` `RAGAS` `Docker`
 
 ---
 
-### 🎬 Urdu AI Dubbing Pipeline *(coming soon)*
-> End-to-end multilingual dubbing: ASR → NMT → TTS → lip-sync. Reduced dubbing time from 4 hrs to 12 min per video segment.
+### 🎬 Automated Urdu Video Dubbing Pipeline — Alnafi *(production)*
+> Whisper for transcript extraction → translation LLMs for localization → ElevenLabs for TTS → FFmpeg for audio sync. Processed **200+ educational videos** and reduced dubbing time from **4 hours to 12 minutes per video**.
 
-`Whisper` `mBART` `ElevenLabs` `Wav2Lip` `FFmpeg`
+`Whisper` `mBART` `ElevenLabs` `FFmpeg` `Python`
+
+---
+
+### 🤖 AI Resume Generator — Alnafi *(production, 500+ users)*
+> LLM prompt chaining pipeline that parses job descriptions, education history, and skills to generate ATS-optimized resumes with targeted keyword insertion. Deployed to **500+ students** with **87% satisfaction rate**.
+
+`OpenAI` `LangChain` `Prompt Engineering` `FastAPI`
+
+---
+
+### 🦺 [AI-BlindAid](https://github.com/Zunaira3/AI-BlindAid) — Assistive Computer Vision *(open source)*
+> Real-time obstacle detection with stereo spatial coordinates on OAK-D hardware. Two-stage OCR pipeline (EAST + OpenVINO text-recognition) with audio feedback. Achieving **82% mAP at 15 FPS** on edge device.
+
+`YOLOv5` `depthai` `OpenVINO` `OCR` `TTS` `Jetson Nano`
+
+---
+
+### 📈 [Stock Price Prediction — LSTM](https://github.com/Zunaira3) *(research)*
+> Multi-step LSTM on 10 years S&P 500 data with RSI/MACD feature engineering. Achieved **RMSE 2.34, MAE 1.87**, outperforming ARIMA by **15% in directional accuracy**.
+
+`PyTorch` `LSTM` `Time-Series` `Pandas` `Matplotlib`
 
 ---
 
@@ -113,14 +126,22 @@ I engineer **production-grade AI systems** across three domains:
 
 ---
 
-## 📬 Let's Connect
+## 🎓 Background
 
-I'm open to **AI Engineer**, **ML Engineer**, and **Applied Scientist** roles — particularly in legal tech, healthtech, and multilingual AI.
+**BSc Computer Engineering** — National University of Technology · CGPA **3.85/4.0**
+🥈 Silver Medal — 2nd position, Computer Engineering Batch 2019
+🏆 Merit Scholarship — all 8 semesters, top 2% academic standing
+
+---
+
+## 📬 Open to Opportunities
+
+I'm actively looking for **AI Engineer**, **LLM Engineer**, and **Conversational AI Engineer** roles — particularly in **legal tech**, **healthtech**, and **edtech** where AI creates direct, measurable impact.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-khalid/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira@example.com)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunairak4321@gmail.com)
 
 </div>
 
